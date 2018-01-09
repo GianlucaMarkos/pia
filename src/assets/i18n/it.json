@@ -197,7 +197,8 @@
 			},
 			"PIA_LGL_MINI": {
 				"name": "Minimizzazione dei dati",
-				"description": "Ƞimportante ridurre la gravità dei rischi riducendo al minimo il numero di dati personali che verranno elaborati, limitando tali dati a quanto strettamente necessario per gli scopi per i quali vengono elaborati (altrimenti non dovrebbero essere raccolti). Quindi, diventa anche possibile minimizzare i dati stessi, attraverso i controlli volti a ridurre la loro sensibilità,"source": "PIAF Connected Objects p10 - WIKI"
+				"description": "E' importante ridurre la gravità dei rischi riducendo al minimo il numero di dati personali che verranno elaborati, limitando tali dati a quanto strettamente necessario per gli scopi per i quali vengono elaborati (altrimenti non dovrebbero essere raccolti). Quindi, diventa anche possibile minimizzare i dati stessi, attraverso i controlli volti a ridurre la loro sensibilità",
+				"source": "PIAF Connected Objects p10 - WIKI"
 			},
 			"PIA_LGL_DEST": {
 				"name": "Destinatario",
@@ -688,7 +689,8 @@
 				},
 				"PIA_DEF_LOG": {
 					"name": "Sorveglianza",
-					"description": " Configurare un'architettura di registrazione degli accessi e delle operazioni alle infrastrutture informatiche e fisiche per consentire l'individuazione precoce di incidenti che coinvolgono dati personali e disporre di informazioni che possono essere utilizzate per le analisi tecniche o per fornire prove in relazione alle indagini. </ strong> In ogni caso, <strong> non conservare questi record per un periodo di tempo. eccessivo. </ strong> "","source": "Mesures_US Surveillance"
+					"description": " Configurare un'architettura di registrazione degli accessi e delle operazioni alle infrastrutture informatiche e fisiche per consentire l'individuazione precoce di incidenti che coinvolgono dati personali e disporre di informazioni che possono essere utilizzate per le analisi tecniche o per fornire prove in relazione alle indagini. </ strong> In ogni caso, <strong> non conservare questi record per un periodo di tempo. eccessivo. </ strong> ",
+					"source": "Mesures_US Surveillance"
 				},
 				"PIA_DEF_ARCH": {
 					"name": "Archiviazione",
