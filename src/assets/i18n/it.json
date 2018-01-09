@@ -434,8 +434,8 @@
 				"source": "PIA1 p10"
 			},
 			"PIA_DEF_MINC": {
-				"name": "Minimizzare la quantitࡤi dati personali",
-				"description": "Ridurre la gravitࡤei rischi limitando la raccolta di dati personali a ci򠣨e 衳trettamente necessario in relazione a uno scopo definito, per evitare la raccolta di dati non necessari, l'uso di dati che non sono correlati allo scopo e impatti eccessivi sulle persone.",
+				"name": "Minimizzare la quantità di dati personali",
+				"description": "Ridurre la gravità dei rischi limitando la raccolta di dati personali a ciò che è strettamente necessario in relazione a uno scopo definito. Per evitare la raccolta di dati non necessari evitare l'uso di dati che non sono correlati allo scopo e con impatti eccessivi sulle persone.",
 				"source": ""
 			},
 			"PIA_DEF_CONS": {
@@ -475,17 +475,17 @@
 			},
 			"PIA_DEF_PSEU": {
 				"name": "Pseudonimizzazione",
-				"description": "Trattamento dei dati personali in modo tale da non poter pi񠥳sere attribuito a un interessato specifico senza l'uso di ulteriori informazioni, a condizione che tali informazioni aggiuntive siano conservate separatamente e soggette a aspetti tecnici e organizzativi per garantire che i dati personali non siano attribuiti a una persona fisica identificata o identificabile. <br> La pseudonimizzazione riduce il rischio di correlazione di un set di dati con l'identit࡯riginale di un individuo, <strong> 衵n'utile misura di sicurezza, ma non un metodo di anonimizzazione </strong>",
+				"description": "Trattamento dei dati personali in modo tale da non poter più essere attribuito a un interessato specifico senza l'uso di ulteriori informazioni, a condizione che tali informazioni aggiuntive siano conservate separatamente e soggette a aspetti tecnici e organizzativi per garantire che i dati personali non siano attribuiti a una persona fisica identificata o identificabile. <br> La pseudonimizzazione riduce il rischio di correlazione di un set di dati con l'identità originale di un individuo, <strong> è un'utile misura di sicurezza, ma non un metodo di anonimizzazione </strong>",
 				"source": "GDPR Art. 4.5 e linee guida G29 p22 http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_it.pdf"
 			},
 			"PIA_DEF_CLO": {
 				"name": "Partizionamento dei dati",
-				"description": "Metodi di organizzazione dei dati che riduce la possibilitࡣhe i dati personali siano correlati e che una compromissione di tutti i dati personali possa avvenire. Per esempio, possiamo identificare i dati specifici per ogni azienda separandoli logicamente.",
+				"description": "Metodi di organizzazione dei dati che riduce la possibilità che i dati personali siano correlati e che una compromissione di tutti i dati personali possa avvenire. Per esempio, possiamo identificare i dati specifici per ogni azienda separandoli logicamente.",
 				"source": "PIA3 p19 - WIKI"
 			},
 			"PIA_DEF_CTLA": {
 				"name": "Controllo degli accessi logici",
-				"description": "Consiste nel limitare i rischi di accesso di persone non autorizzate ai dati personali in forma digitale. Per fare ci򠨠consigliabile - <strong> definire i profili di autorizzazione </strong> nei sistemi separando le attivitࡥ le aree di responsabilitଠper limitare l'accesso degli utenti ai soli dati strettamente necessari per portare a termine le loro missioni. <br> - <strong> rimuovere le autorizzazioni di accesso utente non appena non hanno pi񠡣cesso a una risorsa locale o IT</strong>, nonch顡 <strong>fine del contratto </strong> <br> - <strong> Realizzare una revisione annuale dei permessi </strong> per identificare ed eliminare gli account non utilizzati e riallineare i permessi concessi alle funzioni di ciascun utente.",
+				"description": "Consiste nel limitare i rischi di accesso di persone non autorizzate ai dati personali in forma digitale. Per fare ciò è consigliabile - <strong> definire i profili di autorizzazione </strong> nei sistemi separando le attività e le aree di responsabilità per limitare l'accesso degli utenti ai soli dati strettamente necessari per portare a termine le loro missioni. <br> - <strong> rimuovere le autorizzazioni di accesso utente appena non dovranno più accedere a una risorsa locale o IT</strong>, nonché <strong>fine del contratto </strong> <br> - <strong> Realizzare una revisione annuale dei permessi </strong> per identificare ed eliminare gli account non utilizzati e riallineare i permessi concessi alle funzioni di ciascun utente.",
 				"source": "PIA3 p43 - WIKI"
 			},
 			"PIA_DEF_MIN1": {
@@ -494,18 +494,18 @@
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_DEF_MIN2": {
-				"name": "Ridurre la sensibilitࡴramite conversione",
-				"description": "Dopo aver ricevuto dati sensibili, come parte di un grupo di informazioni generali o trasmessi solo a fini statistici, questi possono essere convertiti in un modulo meno sensibile o pseudonimizzato, ad esempio: <br> - se il sistema raccoglie l'indirzzo IP per determinare la posizione dell'utente a fini statistici, l'indirizzo IP pu򠥳sere eliminato dopo aver detratto la citt࡯ il quartiere <br> - se il sistema riceve dati video da telecamere di sorveglianza, e pu򠲩conoscere le persone in piedi o in movimento nella scena, sfocarle; <br> - se il sistema 衵n contatore intelligente, pu򠡧gregare l'uso di energia per un periodo di tempo, senza salvarlo in tempo reale",
+				"name": "Ridurre la sensibilità tramite conversione",
+				"description": "Dopo aver ricevuto dati sensibili, come parte di un gruppo di informazioni generali o trasmessi solo a fini statistici, questi possono essere convertiti in un modulo meno sensibile o pseudonimizzato, ad esempio: <br> - se il sistema raccoglie l'indirzzo IP per determinare la posizione dell'utente a fini statistici, l'indirizzo IP può essere eliminato dopo aver detratto la città e il quartiere <br> - se il sistema riceve dati video da telecamere di sorveglianza, e può riconoscere le persone in piedi o in movimento nella scena, sfocarle; <br> - se il sistema è un contatore intelligente, può aggregare l'uso di dati per un periodo di tempo, senza salvarli in tempo reale",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_DEF_SRC": {
 				"name": "Fonti di rischio",
-				"description": "Persona o fonte non umana che pu򠣡usare rischio. Questa fonte pu򠡧ire accidentalmente o deliberatamente.",
+				"description": "Persona o fonte non umana che può causare rischio. Questa fonte può presentarsi accidentalmente o deliberatamente.",
 				"source": "PIA1 p11 - WIKI"
 			},
 			"PIA_DEF_MEN": {
 				"name": "Minaccia",
-				"description": "Procedura comprendente una o pi񠡺ioni individuali sulle risorse che supportano i dati. Agiscono, intenzionalmente o altrimenti, da fonti di rischio e possono causare un evento pericoloso.",
+				"description": "Procedura comprendente una o più azioni individuali sulle risorse che supportano i dati. Agiscono, intenzionalmente o altrimenti, da fonti di rischio e possono causare un evento pericoloso.",
 				"source": "PIA1 p12 - WIKI"
 			},
 			"PIA_DEF_MENA": {
@@ -515,7 +515,7 @@
 			},
 			"PIA_DEF_MENM": {
 				"name": "Minacce che possono portare a modifiche non volute di dati personali",
-				"description": "Minacce riguardanti: <br> - <strong> Materiali </strong> che sono stati modificati (aggiunta di hardware incompatibile, rimozione di un elemento, etc.) <br> - <strong> Software </strong> utilizzato in modo inappropriato o modificato (gestione errori, modifiche inappropriate etc.) <br> - <strong> Canali computerizzati </strong> utilizzati in modo inappropriato (riemissione di flussi intercettati, etc.) <br> - <strong> Persone </strong> oberati di lavoro o deviati (attivit࡮on controllata, interruzione delle condizioni di lavoro, influenza etc.) <br> - Documenti cartacei che sono stati modificati (sostituzione con un falso etc.) <br> - <strong> Canali cartacei </strong> che sono stati alterati (scambio, invio di lettere contraddittorie etc. )",
+				"description": "Minacce riguardanti: <br> - <strong> Materiali </strong> che sono stati modificati (aggiunta di hardware incompatibile, rimozione di un elemento, etc.) <br> - <strong> Software </strong> utilizzato in modo inappropriato o modificato (gestione errori, modifiche inappropriate etc.) <br> - <strong> Canali computerizzati </strong> utilizzati in modo inappropriato (riemissione di flussi intercettati, etc.) <br> - <strong> Persone </strong> oberati di lavoro o deviati (attività non controllata, interruzione delle condizioni di lavoro, influenza etc.) <br> - Documenti cartacei che sono stati modificati (sostituzione con un falso etc.) <br> - <strong> Canali cartacei </strong> che sono stati alterati (scambio, invio di lettere contraddittorie etc. )",
 				"source": "PIAF Oggetti Connessi p43 and 44, WIKI"
 			},
 			"PIA_DEF_MENI": {
@@ -545,27 +545,27 @@
 			},
 			"PIA_VAL_CART": {
 				"name": "Mappatura del rischio",
-				"description": "Grafico illustrante le buone pratiche di sicurezza, con valori di conformitࡡttribuiti ad ognuna sulla base delle valutazioni negli altri step.",
+				"description": "Grafico illustrante le buone pratiche di sicurezza, con valori di conformità attribuiti ad ognuna sulla base delle valutazioni negli altri step.",
 				"source": "PIAF Oggetti Connessi p34"
 			},
 			"PIA_VAL_ACT": {
 				"name": "Piano d'azione",
-				"description": "Controlli correttivi suggeriti dai responsabili negli altri step, illustranti un piano di azione che imposti, per ogni azione, il suo gestore, la frequenza, la difficoltଠil costo e il progresso.",
+				"description": "Controlli correttivi suggeriti dai responsabili negli altri step, illustranti un piano di azione che imposti, per ogni azione, il suo gestore, la frequenza, la difficoltà, il costo e il progresso.",
 				"source": "None"
 			},
 			"PIA_DEF_ENJ": {
 				"name": "Problemi di trattamento",
-				"description": "Queste sono le motivazioni che portano all'attuazione del trattamento, i benefici attesi (per l'organizzazione, per le persone interessate, per la societࡩn generale).",
+				"description": "Queste sono le motivazioni che portano all'attuazione del trattamento, i benefici attesi (per l'organizzazione, per le persone interessate, per la società in generale).",
 				"source": "PIA1 p4 nota 8"
 			},
 			"PIA_DEF_ST": {
 				"name": "Responsabile del trattamento",
-				"description": "Una persona fisica o giuridica, autoritࡰubblica, servizio o altro organismo che elabora dati personali per conto del titolare, vedi  <a target=\"_blank\" href=\"http://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Con+riferimenti+ai+considerando\">Art. 4.8 del [GDPR]</a>.<br> Il responsabile e qualsiasi persona incaricata che agisca sotto l'autoritࡤel titolare del trattamento non pu򠥬aborare i dati, ad eccezione delle istruzioni ricevute dal titolare del trattamento, a meno che non sia obbligato a farlo dal diritto dell'Unione o dello Stato membro. Vedi <a target=\"_blank\" href=\"http://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Con+riferimenti+ai+considerando\">Art. 29 of [GDPR]</a>.",
+				"description": "Una persona fisica o giuridica, autorità pubblica, servizio o altro organismo che elabora dati personali per conto del titolare, vedi  <a target=\"_blank\" href=\"http://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Con+riferimenti+ai+considerando\">Art. 4.8 del [GDPR]</a>.<br> Il responsabile e qualsiasi persona incaricata che agisca sotto l'autorità del titolare del trattamento non può elaborare i dati, ad eccezione delle istruzioni ricevute dal titolare del trattamento, a meno che non sia obbligato a farlo dal diritto dell'Unione o dello Stato membro. Vedi <a target=\"_blank\" href=\"http://www.garanteprivacy.it/documents/10160/0/Regolamento+UE+2016+679.+Con+riferimenti+ai+considerando\">Art. 29 of [GDPR]</a>.",
 				"source": "GDPR Art. 4.8 e 29"
 			},
 			"PIA_DEF_RGPD": {
 				"name": "GDPR (General Data Protection Regulation)",
-				"description": "Regolamento sulla protezione delle persone fisiche nel riguardo del trattamento dei dati personali e sul libera circolazione di tali dati ( <a target=\\\"_blank\\\" href=\\\"http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32016R0679&from=IT\\\">UE 2016-679</a> ) adottato il 27 Aprile 2016 dall'Unione Europea e che entrerࡩn vigore il 25/05/2018, abrogando la direttiva 95/46/CE.",
+				"description": "Regolamento sulla protezione delle persone fisiche nel riguardo del trattamento dei dati personali e sul libera circolazione di tali dati ( <a target=\\\"_blank\\\" href=\\\"http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32016R0679&from=IT\\\">UE 2016-679</a> ) adottato il 27 Aprile 2016 dall'Unione Europea e che entrerà in vigore il 25/05/2018, abrogando la direttiva 95/46/CE.",
 				"source": "Titolo GDPR"
 			},
 			"PIA_DEF_PC": {
@@ -575,22 +575,22 @@
 			},
 			"PIA_DEF_MIN3": {
 				"name": "Ridurre la natura identificativa dei dati",
-				"description": "Il sistema pu򠧡rantire che: <br> - l'utente possa utilizzare una risorsa o un servizio senza il rischio di rivelare la propria identitࠨdati anonimi) <br> - l'utente pu򠵴ilizzare una risorsa o un servizio senza rivelare la sua identitଠma rimane identificabile e responsabile di tale utilizzo (dati pseudonimi) <br> - l'utente pu򠦡re molteplici utilizzi di risorse o servizi senza il rischio che questi usi possano essere collegati insieme (dati non correlati) <br> - l'utente pu򠵴ilizzare una risorsa o un srvizio senza il rischio che altri, in particolare terze parti, possano essere in grado di osservare che la risorsa o il servizio 衩n uso (non osservabilit੮ La scelta di un metodo dell'elenco di cui sopra dovrebbe dipendere dalle minacce identificate e, per alcuni tipi di minacce alla privacy, la pseudonimizzazione sarࡰi񠡰propriata dell'anonimizzazione (ad esempio se c'衵n bisogno di tracciabilit੮ Altre minacce alla privacy saranno affrontate con una combinazione di diversi metodi",
+				"description": "Il sistema può grantire che: <br> - l'utente possa utilizzare una risorsa o un servizio senza il rischio di rivelare la propria identitࠨdati anonimi) <br> - l'utente pu򠵴ilizzare una risorsa o un servizio senza rivelare la sua identitଠma rimane identificabile e responsabile di tale utilizzo (dati pseudonimi) <br> - l'utente pu򠦡re molteplici utilizzi di risorse o servizi senza il rischio che questi usi possano essere collegati insieme (dati non correlati) <br> - l'utente pu򠵴ilizzare una risorsa o un srvizio senza il rischio che altri, in particolare terze parti, possano essere in grado di osservare che la risorsa o il servizio 衩n uso (non osservabilit੮ La scelta di un metodo dell'elenco di cui sopra dovrebbe dipendere dalle minacce identificate e, per alcuni tipi di minacce alla privacy, la pseudonimizzazione sarࡰi񠡰propriata dell'anonimizzazione (ad esempio se c'衵n bisogno di tracciabilit੮ Altre minacce alla privacy saranno affrontate con una combinazione di diversi metodi",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_DEF_MIN4": {
 				"name": "Ridurre l'accumulazione dei dati",
-				"description": "Il sistema pu򠥳sere strutturato in parti indipendenti con funzioni di controllo accessi separate, i dati possono anche essere distribuiti tra questi sottosistemi indipendenti e controllati da ciascun sottosistema utilizzando diversi meccanismi di controllo. Se un sottosistema 衣ompromesso, gli impatti sul set di dati possono essere ridotti.",
+				"description": "Il sistema può essere strutturato in parti indipendenti con funzioni di controllo accessi separate, i dati possono anche essere distribuiti tra questi sottosistemi indipendenti e controllati da ciascun sottosistema utilizzando diversi meccanismi di controllo. Se un sottosistema 衣ompromesso, gli impatti sul set di dati possono essere ridotti.",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_DEF_MIN5": {
 				"name": "Restrizioni d'accesso ai dati",
-				"description": "Il sistema pu򠬩mitare l'accesso ai dati in base a \"necessitࡤi sapere\". Il sistema pu򠳥parare i dati sensibili e applicare politiche di controllo degli acccessi. Inoltre crittografare i dati sensibili per proteggerne la riservatezza durante la trasmissione e l'archiviazione. L'accesso ai file temporanei nascosti che vengono prodotti durante l'elaborazione dei dati deve essere protetto.",
+				"description": "Il sistema può lmitare l'accesso ai dati in base a \"necessitࡤi sapere\". Il sistema può cifrare i dati sensibili e applicare politiche di controllo degli acccessi. Inoltre crittografare i dati sensibili per proteggerne la riservatezza durante la trasmissione e l'archiviazione. L'accesso ai file temporanei nascosti che vengono prodotti durante l'elaborazione dei dati deve essere protetto.",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_EX_DCPC": {
 				"name": "Dati personali comuni",
-				"description": "<strong> Dati di identificazione </strong>: stato civile, etଠnazionalitଠdoppia nazionalitଠindirizzo postale, capacitࡧiuridica etc. <br> <strong> Vita personale: </strong>: stato civile, numero di bambini, residenza, tipo di abitazione, stato degli alloggi, anzianit࡮elle abitazioni etc. <br> <strong> Vita professionale </strong>: occupazione, tipo di contratto, nome del datore di lavoro, anzianit࡬avorativa, disoccupazione etc <br> <strong> Dati di accesso </strong>: indirizzo IP, registri eventi, etc <br> <strong> Dati posizione </strong>: spostamento, dati GPS, GSM etc <br> <strong> Altro </strong>: numero di telefono, indirizzo email, etc.",
+				"description": "<strong> Dati di identificazione </strong>: stato civile, età, nazionalità, doppia nazionalità, indirizzo postale, capacità giuridica etc. <br> <strong> Vita personale: </strong>: stato civile, numero di bambini, residenza, tipo di abitazione, stato degli alloggi, anzianità delle abitazioni etc. <br> <strong> Vita professionale </strong>: occupazione, tipo di contratto, nome del datore di lavoro, anzianità lavorativa, disoccupazione etc <br> <strong> Dati di accesso </strong>: indirizzo IP, registri eventi, etc <br> <strong> Dati posizione </strong>: spostamento, dati GPS, GSM etc <br> <strong> Altro </strong>: numero di telefono, indirizzo email, etc.",
 				"source": "PIA2 old version - WIKI"
 			},
 			"PIA_EX_DCPS": {
@@ -605,12 +605,12 @@
 			},
 			"PIA_EX_HUMI": {
 				"name": "Fonti umane interne",
-				"description": "Possono essere: <br> - un dipendente, malintenzionato, che usa la sua vicinanza al sistema, le sue competenze, i suoi privilegi e il tempo di riserva potenzialmente disponibile o negligente a causa di un eventuale mancanza di formazione e consapevolezza. <br> - un utente o il suo entourage, incurante o malizioso, che ha accesso al servizio. <br> Le sue motivazioni possono essere molteplici: imbarazzo, errore, negligenza, vendetta, volontࡤi allerta, malevolenza, possibilitࡤi guadagno, spionaggio",
+				"description": "Possono essere: <br> - un dipendente, malintenzionato, che usa la sua vicinanza al sistema, le sue competenze, i suoi privilegi e il tempo di riserva potenzialmente disponibile o negligente a causa di un eventuale mancanza di formazione e consapevolezza. <br> - un utente o il suo entourage, incurante o malizioso, che ha accesso al servizio. <br> Le sue motivazioni possono essere molteplici: imbarazzo, errore, negligenza, vendetta, volontà di allerta, malevolenza, possibilità di guadagno, spionaggio",
 				"source": "PIAF Oggeti Connessi p41 - WIKI"
 			},
 			"PIA_EX_HUME": {
 				"name": "Fonti umane esterne",
-				"description": "Possono essere: <br> - una terza parte malintenzionata o ignorante che utilizza la sua vicinanza fisica per accedere fraudolentemente al servizio <br> - un utente malintenzionato che si rivolge a un utente utilizzando la sua conoscenza dell'utente e alcune informazioni su di esso <br> - un utente malintezionato che si rivolge a una delle societࡩncaricata del trattamento utilizzando la sua conoscenza delle societࡣhe potrebbero consentire di attaccare la propria immagine <br> - una terza parte autorizzata che utilizza il proprio accesso privilegiato per ottenere l'accesso non autorizzato alle informazioni. I motivi possono essere molteplici: gioco d'azzardo, molestia, malizia, vendetta, spionaggio, possibilitࡤi profitto, acquisizione di dati per sfruttarli.",
+				"description": "Possono essere: <br> - una terza parte malintenzionata o ignorante che utilizza la sua vicinanza fisica per accedere fraudolentemente al servizio <br> - un utente malintenzionato che si rivolge a un utente utilizzando la sua conoscenza dell'utente e alcune informazioni su di esso <br> - un utente malintezionato che si rivolge a una delle società incaricata del trattamento utilizzando la sua conoscenza delle società che potrebbero consentire di attaccare la propria immagine <br> - una terza parte autorizzata che utilizza il proprio accesso privilegiato per ottenere l'accesso non autorizzato alle informazioni. I motivi possono essere molteplici: gioco d'azzardo, molestia, malizia, vendetta, spionaggio, possibilitࡤi profitto, acquisizione di dati per sfruttarli.",
 				"source": "PIAF Oggetti Connessi p41 - WIKI"
 			},
 			"PIA_EX_NHUM": {
@@ -630,7 +630,7 @@
 			},
 			"PIA_EX_IMPI": {
 				"name": "Gravità significativa",
-				"description": "Le persone interessate potrebbero avere conseguenze significative, che dovrebbero essere in grado di superare, ma con difficoltࡲeali e significative <br> Esempi di impatti: <br> - corporali: gravi affetti fisici che causano danni a lungo termine (aggravamento dello stato di salute in seguito a una cattiva assunzione di responsabilitଠo il non rispetto delle controindicazioni), alternazione dell'integritࡦisica, etc. - materiali: appropriazione indebita di denaro non compensata, opportunit࡭irate, uniche e non ricorrenti, denari persi (mutui, studi, tirocini o occupazione, divieto di esami), perdita di casa, perdita di posti di lavoro, etc. <br> - morale: grave disturbo psicologico (depressione, fobie), sentimento di violazione della privacy e danno irreparabile, vittima di ricatti, cyberbullismo e molestie morali, etc.",
+				"description": "Le persone interessate potrebbero avere conseguenze significative, che dovrebbero essere in grado di superare, ma con difficoltà reali e significative <br> Esempi di impatti: <br> - corporali: gravi affetti fisici che causano danni a lungo termine (aggravamento dello stato di salute in seguito a una cattiva assunzione di responsabilità o il non rispetto delle controindicazioni), alternazione dell'integrità fisica, etc. - materiali: appropriazione indebita di denaro non compensata, opportunità uniche e non ricorrenti, guadagni persi (mutui, studi, tirocini o occupazione, divieto di esami), perdita di casa, perdita di posti di lavoro, etc. <br> - morale: grave disturbo psicologico (depressione, fobie), sentimento di violazione della privacy e danno irreparabile, vittima di ricatti, cyberbullismo e molestie morali, etc.",
 				"source": "PIAF Oggetti Connessi p41 - WIKI"
 			},
 			"PIA_EX_IMPM": {
@@ -640,17 +640,17 @@
 			},
 			"PIA_EX_VRAN": {
 				"name": "Probabilità trascurabile",
-				"description": "Basandosi sugli asset organizzativi non sembra possibile che le fonti di rischio considerate possano creare una minaccia (ad esempio il furto di supporti cartacei conservati in un locale dell'organizzazione il cui accesso 衣ontrollato da badge e codice d'accesso).",
+				"description": "Basandosi sugli asset organizzativi non sembra possibile che le fonti di rischio considerate possano creare una minaccia (ad esempio il furto di supporti cartacei conservati in un locale dell'organizzazione il cui accesso è controllato da badge e codice d'accesso).",
 				"source": "PIAF Oggetti Connessi p44 - WIKI"
 			},
 			"PIA_EX_VRAL": {
 				"name": "Probabilità limitata",
-				"description": " Basandosi sugli asset organizzativi sembra difficile che le fonti di rischio considerate possano creare una minaccia (ad esempio il furto di supporti cartacei conservati in un locale dell'organizzazione il cui accesso 衣ontrollato da badge e codice d'accesso).",
+				"description": " Basandosi sugli asset organizzativi sembra difficile che le fonti di rischio considerate possano creare una minaccia (ad esempio il furto di supporti cartacei conservati in un locale dell'organizzazione il cui accesso è controllato da badge e codice d'accesso).",
 				"source": "PIAF Oggetti Connessi p44 - WIKI"
 			},
 			"PIA_EX_VRAI": {
 				"name": "Probabilità significativa",
-				"description": " Basandosi sugli asset organizzativi sembra possibile che le fonti di rischio considerate possano creare una minaccia (ad esempio: il furto di supporti cartacei conservati negli uffici di un'organizzazione il cui accesso 衣ontrollato da una persona alla reception).",
+				"description": " Basandosi sugli asset organizzativi sembra possibile che le fonti di rischio considerate possano creare una minaccia (ad esempio: il furto di supporti cartacei conservati negli uffici di un'organizzazione il cui accesso è controllato da una persona alla reception).",
 				"source": "PIAF Oggetti Connessi p44 - WIKI"
 			},
 			"PIA_EX_VRAM": {
@@ -665,16 +665,18 @@
 			},
 			"PIA_DEF_ANO": {
 				"name": "Anonimizzazione",
-				"description": " Processo di rimozione delle caratteristiche identificative dai dati personali. Per valutare la robustezza dei processi di anonimizzazione, consultare <a target = \ "_blank\" href = \ "http: //ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_it.pdf\"> Linee guida WP29 </a>.",
-				"source": " Mesures_US and linee guida G29 http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_it.pdf""PIA_SEC_CTR": {
-					"placeholder": "Descrivere qui le misure specifiche per gli incaricati (hosting, societࡤi manutenzione, amministratore, gestori di servizi specialistici etc.)",
+				"description": " Processo di rimozione delle caratteristiche identificative dai dati personali. Per valutare la robustezza dei processi di anonimizzazione, consultare <a target=\"_blank\" href=\"http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_it.pdf\"> Linee guida WP29 </a>.",
+				"source": " Mesures_US and linee guida G29 http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_it.pdf"
+			},
+				"PIA_SEC_CTR": {
+					"placeholder": "Descrivere qui le misure specifiche per gli incaricati (hosting, società di manutenzione, amministratore, gestori di servizi specialistici etc.)",
 					"name": "Contratti di trattamento",
-					"description": "Regolare i rapporti di approvvigionamento (es. responsabile trattamento dati, responsabile protezione dei dati, servizi cloud, ecc) tramite un contratto firmato intuitu person殠<br> - Richiedere al fornitore di inoltrare la sua politica di sicurezza dei sistemi informativi insieme a tutti i documenti di supporto delle sue certificazioni di sicurezza delle informazioni e allegare tali documenti al contratto. Garantire che le misure siano conformi alla propria politica di sicurezza ed alle raccomandazioni dellӁutoritࡇarante. <br> - Determinare e fissare in modo preciso, su base contrattuale, le operazioni che il responsabile del trattamento potrࡥseguire sui dati personali: <br> 1) I dati a cui avrࡡccesso o che gli saranno trasmessi. <br> 2) Le operazioni che deve eseguire sui dati. <br> 3) La durata per la quale pu򠭥morizzare i dati. <Br > 4) Tutti i destinatari a cui il responsabile del trattamento potrࡴrasmettere i dati. <br> 5) Le operazioni da eseguire al termine del servizio (cancellazione permanente dei dati o restituzione dei dati nel contesto della reversibilitࡱuindi distruzione di dati). <br> 6) Gli obiettivi di sicurezza stabiliti dal titolare del trattamento. <br> - Determinare, su base contrattuale, la ripartizione delle responsabilitࡩn merito ai processi legali volti a consentire agli interessati di esercitare i propri diritti. <br> <br> Esplicitamente vietare o regolare l'utilizzo di fornitori di secondo livello. <br> <br> - Chiarire nel contratto che il rispetto degli obblighi di protezione dei dati 衵n requisito vincolante del contratto. ",
+					"description": "Regolare i rapporti di approvvigionamento (es. responsabile trattamento dati, responsabile protezione dei dati, servizi cloud, ecc) tramite un contratto firmato intuitu personae<br> - Richiedere al fornitore di inoltrare la sua politica di sicurezza dei sistemi informativi insieme a tutti i documenti di supporto delle sue certificazioni di sicurezza delle informazioni e allegare tali documenti al contratto. Garantire che le misure siano conformi alla propria politica di sicurezza ed alle raccomandazioni dellӁutoritࡇarante. <br> - Determinare e fissare in modo preciso, su base contrattuale, le operazioni che il responsabile del trattamento potrà eseguire sui dati personali: <br> 1) I dati a cui avrà accesso o che gli saranno trasmessi. <br> 2) Le operazioni che deve eseguire sui dati. <br> 3) La durata per la quale può memorizzare i dati. <Br > 4) Tutti i destinatari a cui il responsabile del trattamento potrà trasmettere i dati. <br> 5) Le operazioni da eseguire al termine del servizio (cancellazione permanente dei dati o restituzione dei dati nel contesto della reversibilità quindi distruzione di dati). <br> 6) Gli obiettivi di sicurezza stabiliti dal titolare del trattamento. <br> - Determinare, su base contrattuale, la ripartizione delle responsabilità in merito ai processi legali volti a consentire agli interessati di esercitare i propri diritti. <br> <br> Esplicitamente vietare o regolare l'utilizzo di fornitori di secondo livello. <br> <br> - Chiarire nel contratto che il rispetto degli obblighi di protezione dei dati è un requisito vincolante del contratto. ",
 					"source": "Mesures_US Procurement: identificate e gestite da un contratto"
 				},
 				"PIA_DEF_CHIF": {
 					"name": "Crittografia",
-					"description": " Misura che rende i dati personali incomprensibili a chiunque non abbia un'autorizzazione di accesso (crittografia simmetrica o asimmetrica, uso di algoritmi pubblici noti per essere robusti, certificato di autenticazione, ecc.). La crittografia di un messaggio garantisce che solo il mittente e il suo destinatario legittimo conoscano il contenuto del messaggio. Non avendo la chiave specifica il messaggio 衩naccessibile e illeggibile, sia da esseri umani che da macchine. <br> Ci sono due grandi famiglie di crittografia: simmetrica e asimmetrica. <br> - <strong> la crittografia simmetrica </strong> per cifrare e decifrare il contenuto con la stessa chiave. Ƞmolto veloce ma richiede che il mittente e il destinatario concordino una chiave segreta comune o la scambino attraverso un altro canale, che deve essere scelto con attenzione per evitare che la chiave potrebbe essere recuperata dalle persone sbagliate, il che non garantirebbe pi񠬡 riservatezza del messaggio.<br> - <strong> la crittografia asimmetrica </strong> suppone che il destinatario abbia una coppia di chiavi (chiave privata e pubblica) e fa in modo che il potenziale mittente abbia accesso alla sua chiave pubblica. In questo caso il mittente utilizza la chiave pubblica del destinatario per crittografare il messaggio, mentre il destinatario usa la sua chiave privata per decrittografarlo. Tra i suoi vantaggi c'衩l fatto che la chiave pubblica pu򠥳sere conosciuta da tutti e pubblicata. Ma attenzione: 衮ecessario che i trasmettitori abbiano fiducia nell'origine della chiave pubblica, che siano sicure che sia effettivamente quella del destinatario. Un altro punto di forza: non 衮ecessario condividere la stessa chiave. ",
+					"description": " Misura che rende i dati personali incomprensibili a chiunque non abbia un'autorizzazione di accesso (crittografia simmetrica o asimmetrica, uso di algoritmi pubblici noti per essere robusti, certificato di autenticazione, ecc.). La crittografia di un messaggio garantisce che solo il mittente e il suo destinatario legittimo conoscano il contenuto del messaggio. Non avendo la chiave specifica il messaggio è inaccessibile e illeggibile, sia da esseri umani che da macchine. <br> Ci sono due grandi famiglie di crittografia: simmetrica e asimmetrica. <br> - <strong> la crittografia simmetrica </strong> per cifrare e decifrare il contenuto con la stessa chiave. Ƞmolto veloce ma richiede che il mittente e il destinatario concordino una chiave segreta comune o la scambino attraverso un altro canale, che deve essere scelto con attenzione per evitare che la chiave potrebbe essere recuperata dalle persone sbagliate, il che non garantirebbe pi񠬡 riservatezza del messaggio.<br> - <strong> la crittografia asimmetrica </strong> suppone che il destinatario abbia una coppia di chiavi (chiave privata e pubblica) e fa in modo che il potenziale mittente abbia accesso alla sua chiave pubblica. In questo caso il mittente utilizza la chiave pubblica del destinatario per crittografare il messaggio, mentre il destinatario usa la sua chiave privata per decrittografarlo. Tra i suoi vantaggi c'衩l fatto che la chiave pubblica pu򠥳sere conosciuta da tutti e pubblicata. Ma attenzione: è necessario che i trasmettitori abbiano fiducia nell'origine della chiave pubblica, che siano sicure che sia effettivamente quella del destinatario. Un altro punto di forza: non è necessario condividere la stessa chiave. ",
 					"source ": "Mesures_US Crittografia"
 				},
 				"PIA_DEF_PWD": {
@@ -684,7 +686,7 @@
 				},
 				"PIA_DEF_AUTH": {
 					"name": "Autenticazione",
-					"description": "L'autenticazione 衵n'operazione <strong> con cui l'utente fornisce la prova dell'identit࠼/strong>, per questo esistono diversi meccanismi classificati a seconda che coinvolgano: <br> - che cosa sappiamo, ad esempio una password; <br> - cosa abbiamo, ad esempio una smart card; <br> - una caratteristica della nostra persona, ad esempio un'impronta digitale o il modo di scrivere di una firma autografa. <br> Come promemoria il GDPR rende l'uso della biometria soggetto a autorizzazione preventiva da parte dellӁutoritࡇarante. <br> <strong> L'autenticazione di un utente 衱ualificata come forte quando utilizza una combinazione di almeno due di queste categorie. </strong>",
+					"description": "L'autenticazione è un'operazione <strong> con cui l'utente fornisce la prova dell'identità </strong>, per questo esistono diversi meccanismi classificati a seconda che coinvolgano: <br> - che cosa sappiamo, ad esempio una password; <br> - cosa abbiamo, ad esempio una smart card; <br> - una caratteristica della nostra persona, ad esempio un'impronta digitale o il modo di scrivere di una firma autografa. <br> Come promemoria il GDPR rende l'uso della biometria soggetto a autorizzazione preventiva da parte dell' autorità garante. <br> <strong> L'autenticazione di un utente è qualificata come forte quando utilizza una combinazione di almeno due di queste categorie. </strong>",
 					"source": "Mesures_US Logical Access Control"
 				},
 				"PIA_DEF_LOG": {
@@ -694,7 +696,7 @@
 				},
 				"PIA_DEF_ARCH": {
 					"name": "Archiviazione",
-					"description": "Procedure che preservano e gestiscono gli archivi elettronici contenenti i dati personali destinati a garantire il loro valore (in particolare, il loro valore legale) per tutto il periodo necessario (trasferimento, archiviazione, migrazione, accessibilitଠeliminazione, politica di archiviazione, protezione, ecc.). I dati che non vengono pi񠵴ilizzati su base giornaliera ma non hanno ancora raggiunto il periodo di conservazione massimo, ad esempio perch顨 conservato in caso di contezioso, devono essere archiviati. <strong> Gli archivi devono essere sicuri </strong>, soprattutto se i dati archiviati sono dati sensibili o che potrebbero avere gravi ripercussioni sugli interessati.",
+					"description": "Procedure che preservano e gestiscono gli archivi elettronici contenenti i dati personali destinati a garantire il loro valore (in particolare, il loro valore legale) per tutto il periodo necessario (trasferimento, archiviazione, migrazione, accessibilità, eliminazione, politica di archiviazione, protezione, ecc.). I dati che non vengono più uilizzati su base giornaliera ma non hanno ancora raggiunto il periodo di conservazione massimo, ad esempio perché conservato in caso di contezioso, devono essere archiviati. <strong> Gli archivi devono essere sicuri </strong>, soprattutto se i dati archiviati sono dati sensibili o che potrebbero avere gravi ripercussioni sugli interessati.",
 					"source": "Mesures_USE Archiving"
 				}
 			}
@@ -720,15 +722,15 @@
 			"to_correct": "Da correggere",
 			"placeholder_to_correct": "Le informazioni fornite non sono sufficienti per valutarle. Torna a modificare per arricchire la proposta iniziale",
 			"improvable": " Migliorabile",
-			"placeholder_improvable": "Alla luce delle informazioni fornite, 衮ecessario aggiungere ulteriori misure per migliorare la protezione dei dati del trattamento",
+			"placeholder_improvable": "Alla luce delle informazioni fornite, è necessario aggiungere ulteriori misure per migliorare la protezione dei dati del trattamento",
 			"acceptable": "Accettabile",
 			"placeholder_acceptable": "Alla luce delle informazioni fornite, le misure implementate sono sufficienti per soddisfare i requisiti di protezione dei dati",
 			"evaluation_comment": "Commento di valutazione",
 			"action_plan_comment": "Piano d'azione / azioni correttive",
 			"placeholder_comment": "Inserisci i tuoi commenti",
 			"gauges": {
-				"seriousness": "Prendere in considerazione il piano d'azione, come valuti la <span class='red-highlight'>serietࡤi questo rischio</span> ({{value}})?",
-				"likelihood": "Prendendo in considerazione il piano d'azione, come rivaluti la <span class='red-highlight'>probabilitࡤi questo rischio</span> ({{value}})?",
+				"seriousness": "Prendere in considerazione il piano d'azione, come valuti la <span class='red-highlight'>serietà di questo rischio</span> ({{value}})?",
+				"likelihood": "Prendendo in considerazione il piano d'azione, come rivaluti la <span class='red-highlight'>probabilità di questo rischio</span> ({{value}})?",
 				"0": "(Indefinito)",
 				"1": "Trascurabile",
 				"2": "Limitato",
@@ -761,7 +763,7 @@
 					},
 					"qa3": {
 						"title": "Incontro problemi di importazione di PIA",
-						"content": "Sono stati osservati diversi bug di importazione, in particolare dei gradi di valutazione di severità probabilità del rischio che scompaiono. In questo caso fai riferimento alla problematica sopra. In pi񠵮 PIA pu򠮯n comparire sulla bacheca dopo l'importazione. Questo è un problema di visualizzazione e puoi semplicemente ricaricare la pagina."
+						"content": "Sono stati osservati diversi bug di importazione, in particolare dei gradi di valutazione di severità probabilità del rischio che scompaiono. In questo caso fai riferimento alla problematica sopra. In più un PIA può non comparire sulla bacheca dopo l'importazione. Questo è un problema di visualizzazione e puoi semplicemente ricaricare la pagina."
 					},
 					"qa4": {
 						"title": "Quando faccio copia/incolla il testo evidenziato.",
@@ -801,7 +803,7 @@
 			"continue": "Continua",
 			"back_to_home": "Torna alla home",
 			"simple_pia_validation": {
-				"content": "Il PIA 衳tato convalidato"
+				"content": "Il PIA è stato convalidato"
 			},
 			"update_server_url": {
 				"content": "L'indirizzo del server è stato aggiornato."
