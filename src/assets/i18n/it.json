@@ -510,12 +510,12 @@
 			},
 			"PIA_DEF_MENA": {
 				"name": "Minacce che possono portare a accesso illegittimo",
-				"description": "Minacce a: <br> - <strong> Materiali </strong>, utilizzati in modo improprio, osservati, modificati o persi (utilizzo di contenuti multimediali contenenti dati sensibili per motivi personali o durante un trasporto per il quale non è adatto, osservazione di uno schermo, aggiunta di un materiale destinato a recuperare dati, etc.)<br> - <strong> Software </strong> utilizzato in modo inappropriato, osservato o alternato (elevazione di privilegi, raccolta di dati di configurazione, installazione di uno strumento remoto etc.) <br> - <strong> Canali computerizzati </strong> che vengono osservati (intercettazioni dei flussi di rete, etc.) <br> - <strong> Persone </strong> osservate, dirottate o perse (divulgazione involontaria, a seguito di pressioni o phishing, cambio del datore di lavoro etc.) <br> - <strong> Documenti cartacei </strong> osservati o persi (fotocopie, scansioni dimenticate, documenti scartati, furto di posta elettronica, etc.) <br> - <strong> Canali di carta </strong> che è osservabile",
+				"description": "Minacce a: <br> - <strong> Hardware </strong>, utilizzati in modo improprio, violati, modificati o persi (utilizzo di contenuti multimediali contenenti dati sensibili per motivi personali o durante un trasporto per il quale non è adatto, osservazione di uno schermo, aggiunta di un hardware destinato a recuperare dati, etc.)<br> - <strong> Software </strong> utilizzato in modo inappropriato, violato o alterato (elevazione di privilegi, raccolta di dati di configurazione, installazione di uno strumento remoto etc.) <br> - <strong> Canali informatici </strong> che vengono osservati (intercettazioni dei flussi di rete, etc.) <br> - <strong> Persone </strong> spiate, costrette o che perdono dei dati (divulgazione involontaria, a seguito di pressioni o phishing, cambio del datore di lavoro etc.) <br> - <strong> Documenti cartacei </strong> spiati o persi (fotocopie, scansioni dimenticate, documenti scartati, furto di posta elettronica, etc.) <br> - <strong> Canali cartacei</strong> osservabile",
 				"source": "PIAF Oggetti Connessi p44 and 45"
 			},
 			"PIA_DEF_MENM": {
 				"name": "Minacce che possono portare a modifiche non volute di dati personali",
-				"description": "Minacce riguardanti: <br> - <strong> Materiali </strong> che sono stati modificati (aggiunta di hardware incompatibile, rimozione di un elemento, etc.) <br> - <strong> Software </strong> utilizzato in modo inappropriato o modificato (gestione errori, modifiche inappropriate etc.) <br> - <strong> Canali computerizzati </strong> utilizzati in modo inappropriato (riemissione di flussi intercettati, etc.) <br> - <strong> Persone </strong> oberati di lavoro o deviati (attività non controllata, interruzione delle condizioni di lavoro, influenza etc.) <br> - Documenti cartacei che sono stati modificati (sostituzione con un falso etc.) <br> - <strong> Canali cartacei </strong> che sono stati alterati (scambio, invio di lettere contraddittorie etc. )",
+				"description": "Minacce riguardanti: <br> - <strong> Hardware </strong> che sono stati modificati (aggiunta di hardware incompatibile, rimozione di un elemento, etc.) <br> - <strong> Software </strong> utilizzato in modo inappropriato o modificato (gestione errori, modifiche inappropriate etc.) <br> - <strong> Canali computerizzati </strong> utilizzati in modo inappropriato (riemissione di flussi intercettati, etc.) <br> - <strong> Persone </strong> oberati di lavoro o deviati (attività non controllata, interruzione delle condizioni di lavoro, influenza etc.) <br> - Documenti cartacei che sono stati modificati (sostituzione con un falso etc.) <br> - <strong> Canali cartacei </strong> che sono stati alterati (scambio, invio di lettere contraddittorie etc. )",
 				"source": "PIAF Oggetti Connessi p43 and 44, WIKI"
 			},
 			"PIA_DEF_MENI": {
@@ -525,12 +525,12 @@
 			},
 			"PIA_DEF_GRV": {
 				"name": "Severità",
-				"description": "La severitࡲappresenta l'entitࡤel rischio. Dipende principalmente dalla natura pregiudiziale del potenziale impatto.",
+				"description": "La severità rappresenta l'entità del rischio. Dipende principalmente dalla natura pregiudiziale del potenziale impatto.",
 				"source": "PIA1 pg 6"
 			},
 			"PIA_DEF_VRA": {
 				"name": "Probabilità",
-				"description": "La probabilitࡥsprime la possibilitࡣhe un rischio si realizzi. Dipende principalmente dal livello di vulnerabilitࡤelle risorse di supporto quando sottoposte alle minacce e dal livello di capacitࡤelle fonti di rischio a sfruttarle.",
+				"description": "La probabilità esprime la possibilità che un rischio si realizzi. Dipende principalmente dal livello di vulnerabilità delle risorse di supporto quando sottoposte alle minacce e dal livello di capacitࡤelle fonti di rischio a sfruttarle.",
 				"source": "PIA1 pg 6"
 			},
 			"PIA_DEF_PBDS": {
@@ -575,7 +575,7 @@
 			},
 			"PIA_DEF_MIN3": {
 				"name": "Ridurre la natura identificativa dei dati",
-				"description": "Il sistema può grantire che: <br> - l'utente possa utilizzare una risorsa o un servizio senza il rischio di rivelare la propria identitࠨdati anonimi) <br> - l'utente pu򠵴ilizzare una risorsa o un servizio senza rivelare la sua identitଠma rimane identificabile e responsabile di tale utilizzo (dati pseudonimi) <br> - l'utente pu򠦡re molteplici utilizzi di risorse o servizi senza il rischio che questi usi possano essere collegati insieme (dati non correlati) <br> - l'utente pu򠵴ilizzare una risorsa o un srvizio senza il rischio che altri, in particolare terze parti, possano essere in grado di osservare che la risorsa o il servizio 衩n uso (non osservabilit੮ La scelta di un metodo dell'elenco di cui sopra dovrebbe dipendere dalle minacce identificate e, per alcuni tipi di minacce alla privacy, la pseudonimizzazione sarࡰi񠡰propriata dell'anonimizzazione (ad esempio se c'衵n bisogno di tracciabilit੮ Altre minacce alla privacy saranno affrontate con una combinazione di diversi metodi",
+				"description": "Il sistema può grantire che: <br> - l'utente possa utilizzare una risorsa o un servizio senza il rischio di rivelare la propria identità, dati anonimi) <br> - l'utente può uilizzare una risorsa o un servizio senza rivelare la sua identità, ma rimane identificabile e responsabile di tale utilizzo (dati pseudonimi) <br> - l'utente può fare molteplici utilizzi di risorse o servizi senza il rischio che questi usi possano essere collegati insieme (dati non correlati) <br> - l'utente può uilizzare una risorsa o un srvizio senza il rischio che altri, in particolare terze parti, possano essere in grado di osservare che la risorsa o il servizio è in uso (non osservabilità. La scelta di un metodo dell'elenco di cui sopra dovrebbe dipendere dalle minacce identificate e, per alcuni tipi di minacce alla privacy, la pseudonimizzazione sarà più appropriata dell'anonimizzazione (ad esempio se c'è un bisogno di tracciabilità. Altre minacce alla privacy saranno affrontate con una combinazione di diversi metodi",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_DEF_MIN4": {
@@ -585,7 +585,7 @@
 			},
 			"PIA_DEF_MIN5": {
 				"name": "Restrizioni d'accesso ai dati",
-				"description": "Il sistema può lmitare l'accesso ai dati in base a \"necessitࡤi sapere\". Il sistema può cifrare i dati sensibili e applicare politiche di controllo degli acccessi. Inoltre crittografare i dati sensibili per proteggerne la riservatezza durante la trasmissione e l'archiviazione. L'accesso ai file temporanei nascosti che vengono prodotti durante l'elaborazione dei dati deve essere protetto.",
+				"description": "Il sistema può lmitare l'accesso ai dati in base a \"necessità di sapere\". Il sistema può cifrare i dati sensibili e applicare politiche di controllo degli acccessi. Inoltre crittografare i dati sensibili per proteggerne la riservatezza durante la trasmissione e l'archiviazione. L'accesso ai file temporanei nascosti che vengono prodotti durante l'elaborazione dei dati deve essere protetto.",
 				"source": "PIAF Oggetti Connessi p42 - WIKI"
 			},
 			"PIA_EX_DCPC": {
@@ -605,7 +605,7 @@
 			},
 			"PIA_EX_HUMI": {
 				"name": "Fonti umane interne",
-				"description": "Possono essere: <br> - un dipendente, malintenzionato, che usa la sua vicinanza al sistema, le sue competenze, i suoi privilegi e il tempo di riserva potenzialmente disponibile o negligente a causa di un eventuale mancanza di formazione e consapevolezza. <br> - un utente o il suo entourage, incurante o malizioso, che ha accesso al servizio. <br> Le sue motivazioni possono essere molteplici: imbarazzo, errore, negligenza, vendetta, volontà di allerta, malevolenza, possibilità di guadagno, spionaggio",
+				"description": "Possono essere: <br> - un dipendente, malintenzionato, che usa la sua vicinanza al sistema, le sue competenze, i suoi privilegi e il tempo di riserva potenzialmente disponibile o esser negligente a causa di un eventuale mancanza di formazione e consapevolezza. <br> - un utente o il suo entourage, incurante o malizioso, che ha accesso al servizio. <br> Le sue motivazioni possono essere molteplici: imbarazzo, errore, negligenza, vendetta, volontà di allerta, malevolenza, possibilità di guadagno, spionaggio",
 				"source": "PIAF Oggeti Connessi p41 - WIKI"
 			},
 			"PIA_EX_HUME": {
